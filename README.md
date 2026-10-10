@@ -14,5 +14,4 @@ Start at `index.html`. Investigate the discrepancy in the record count, use the 
 4. After the deployment finishes, the site should be available at `https://aderox20.github.io/vibed-the-quiet-archive-arg/`.
 
 ## Spoiler note
-
-`records/214.html` is intentionally unindexed by the fictional archive, but it is part of the game. This is a puzzle, not a security boundary. The game is fictional and requires no interaction with real people, systems, or locations.
+This is a puzzle, not a security boundary. The game (ARG) you is fictional and requires no interaction with real people, systems, or locations.
